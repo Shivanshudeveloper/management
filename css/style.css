@@ -1,0 +1,68 @@
+nav{
+	background-color:#191818
+}
+.h{ 
+	z-index:+1;
+	font-family:'Laila', serif;
+	font-weight:400;
+	font-size:85.831px;
+	color:#a09f9f;
+   }
+.style1{
+	font-family:'Laila',serif;
+    font-weight:600;
+    font-size:68.665px;
+}
+#submit{
+	position:relative;
+	bottom:2.42em;
+	left:-1.6em;
+	z-index:+1;
+}
+.btn-cool{
+    border:1.7px solid lightgrey;
+    color:#a09f9f;
+    font-size:18px;
+    width:91.2%;
+    margin-left:1.2em;
+    background-color:white;
+}
+.btn-cool:hover{
+    background-color:#3b5491;
+    color:white;
+}
+.btn-cool:active{
+	background-color:#344a82;
+	color:white;
+}
+#font-title{
+	
+	padding-bottom:3.7em;
+	padding-top:1.9em;
+	margin-bottom:1.7em;
+	background-color:#232222;
+
+}
+#options-bar{
+	margin-top:-.2em;
+	border-left:5px solid #a09f9f;
+	padding-left:1.1em;
+	padding-bottom:2.9em;
+	margin-left:27.7em;
+
+}
+.search-length{
+	width:83.7%;
+	position:relative;
+	left:1.2em;
+    font-size:18px;
+}
+#row{
+	position:relative;
+	top:-1.4em;
+}
+#form-body{
+	border-bottom:2.222px solid lightgrey;
+	padding-bottom:.3em;
+	padding-top:1.8em;
+}
